@@ -1,5 +1,5 @@
  Hello 👋 I am Anthony Njiru a web developer (full stack)
-- 👨‍💻 I'm work with the following languages, JavaScript, 
+- 👨‍💻 I work with the following languages, JavaScript, 
 - React.js, HTML5, CSS3, BOOTSTRAP5, PHP and MySQL 
 -  OPP languages such as Java, C# C++ and python 🐍
 
