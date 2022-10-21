@@ -10,7 +10,7 @@
 - 📍Quick find me on https://twitter.com/@AmTorniey , or
 
 📩 email me anthonynjiru3@gmail.com
-Creating nbeatech.netlify.app
+Creating Https://nbeatech.netlify.app
 <!---
 Tony-njiru/Tony-njiru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
