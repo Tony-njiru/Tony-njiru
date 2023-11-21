@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects/ Any project you may need a hand at.**
 
-- 👨‍💻 All of my projects are available at [tony-njiru.netlify.app](tony-njiru.netlify.app)
+- 👨‍💻 All of my projects are available at..
 
 - 💬 Ask me about **Web Development, Copy writing & SE dev**
 
